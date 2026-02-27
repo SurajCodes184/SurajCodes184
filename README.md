@@ -1,92 +1,118 @@
-<h1 align="center">Hi 👋, I'm Suraj Tadhani</h1>
-<h3 align="center">🚀 MERN Stack Developer | Building Scalable Web Applications</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB;JWT+Authentication+Expert;Cloudinary+%26+Payment+Integration;Always+Learning+New+Technologies" />
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="60%">
+      <h1>Hi 👋, I'm Suraj Tadhani</h1>
+      <h3>🚀 A Passionate MERN Stack Developer from India 🚀</h3>
+      <p>
+        <img src="https://komarev.com/ghpvc/?username=SurajCodes184&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+        <img src="https://img.shields.io/github/followers/SurajCodes184?style=social" alt="GitHub Followers"/>
+        <img src="https://img.shields.io/badge/Code-React-blue?style=flat&logo=react" alt="Tech Stack"/>
+      </p>
+    </td>
+    <td width="40%" align="right">
+      <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="350px" alt="Coding GIF"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔥 Full-Stack Developer specializing in **MERN Stack**
-- 🌱 Currently mastering **Data Structures & Algorithms (DSA)**
-- 💡 Passionate about building **scalable & production-ready web applications**
-- 🚀 Experience with **Authentication, File Uploads, Payment Integration**
-- 🤝 Open to collaborations & open-source contributions
-- 📫 Reach me at: **info@surajtadhani.com**
-- 👨‍💻 All projects available at: [GitHub Profile](https://github.com/SurajCodes184)
+- 🔥 Full-Stack Developer | **MERN Stack**
+- 🌱 Currently Learning **Data Structures & Algorithms (DSA)**
+- 💡 Open to collaborations on **Web Projects & Open-Source Contributions**
+- 🎯 Focused on building **Scalable Web Applications**
+- 💬 Ask me about **React, Node.js, Next.js, TypeScript, MongoDB**
+- 📫 Reach me at **info@surajtadhani.com**
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/SurajCodes184)
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧑‍💼 MERN Job Portal
-- Full authentication system (JWT)
-- Resume upload using Cloudinary
-- Role-based access (Admin / User)
-- Backend deployed on Render
-- Tech: React, Node.js, Express, MongoDB
-
----
-
-### 🛒 eCommerce Platform
-- Product management system
-- Admin dashboard
-- Secure payment integration
-- RESTful APIs
-- Tech: MERN Stack
-
----
-
-## 🛠 Tech Stack
+## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Server-Express-black?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Styling-TailwindCSS-blue?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Code-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Code-Node.js-success?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Backend-Express.js-black?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Frontend-TailwindCSS-blue?style=for-the-badge&logo=tailwindcss" />
 </p>
 
 ---
 
-## 💻 Languages & Tools
+## 🛠 Languages & Frameworks
 
 <p align="center">
-  <span style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  </span>
 
-  <span style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50"/>
-  </span>
+<span style="margin:12px; display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"/>
+</span>
 
-  <span style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
-  </span>
+<span style="margin:12px; display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/>
+</span>
 
-  <span style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50"/>
-  </span>
+<span style="margin:12px; display:inline-block;">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50"/>
+</span>
 
-  <span style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50" height="50"/>
-  </span>
+<span style="margin:12px; display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50"/>
+</span>
 
-  <span style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
-  </span>
+<span style="margin:12px; display:inline-block;">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/>
+</span>
 
-  <span style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git-scm/git-scm-icon.svg" width="50" height="50"/>
-  </span>
+<span style="margin:12px; display:inline-block;">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
+</span>
 
-  <span style="display: inline-block; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="50" height="50"/>
-  </span>
+<span style="margin:12px; display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
+</span>
+
+<span style="margin:12px; display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
+</span>
+
+<span style="margin:12px; display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
+</span>
+
+<span style="margin:12px; display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
+</span>
+
+<span style="margin:12px; display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
+</span>
+
+<span style="margin:12px; display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
+</span>
+
+<span style="margin:12px; display:inline-block;">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/>
+</span>
+
+<span style="margin:12px; display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+</span>
+
+<span style="margin:12px; display:inline-block;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
+</span>
+
+<span style="margin:12px; display:inline-block;">
+<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50"/>
+</span>
+
+<span style="margin:12px; display:inline-block;">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/>
+</span>
+
 </p>
 
 ---
@@ -120,12 +146,12 @@
 
 ---
 
-## 💡 Fun Fact
+### 💡 Fun Fact
 
-> 💻 "The best way to predict the future is to create it."
+> 💻 "The best way to predict the future is to create it!"
 
 ---
 
 <p align="center">
-  ✨ Thanks for visiting my profile! Let’s build something amazing together 🚀
+✨ Thanks for stopping by! Have an amazing day! 🚀
 </p>
