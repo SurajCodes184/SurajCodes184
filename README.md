@@ -4,8 +4,8 @@
       <h1>Hi 👋, I'm Suraj Tadhani</h1>
       <h3>🚀 A Passionate MERN Stack Developer from India 🚀</h3>
       <p>
-        <img src="https://komarev.com/ghpvc/?username=surajtadhani&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-        <img src="https://img.shields.io/github/followers/surajtadhani?style=social" alt="GitHub Followers">
+        <img src="https://komarev.com/ghpvc/?username=SurajCodes184&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+        <img src="https://img.shields.io/github/followers/SurajCodes184?style=social" alt="GitHub Followers">
         <img src="https://img.shields.io/badge/Code-React-blue?style=flat&logo=react" alt="Tech Stack">
       </p>
     </td>
@@ -79,7 +79,7 @@
 ## 🌎 **Connect with Me**
 <p align="center">
   <a href="https://linkedin.com/in/www.linkedin.com/in/surajtadhani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-SurajTadhani-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-SurajCodes184-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://instagram.com/suraj_tadhani" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@suraj_tadhani-pink?style=for-the-badge&logo=instagram" />
