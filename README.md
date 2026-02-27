@@ -23,9 +23,9 @@
 - 🌱 Currently Learning **Data Structures & Algorithms (DSA)**  
 - 💡 Open to collaborations on **Web Projects & Open-Source Contributions**  
 - 🎯 Focused on building **Scalable Web Applications**  
-- 💬 Ask me about **React, Python, Django, Node.js, MongoDB**  
-- 📫 Reach me at **surajtadhani@gmail.com**  
-- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/SurajTadhani)  
+- 💬 Ask me about **React, Node.js, Next.js,TypeScript, MongoDB**  
+- 📫 Reach me at **info@surajtadhani.com**  
+- 👨‍💻 All of my projects are available at [My GitHub](https://github.com/SurajCodes184)  
 
 ---
 
@@ -78,7 +78,7 @@
 
 ## 🌎 **Connect with Me**
 <p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/suraj1845" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/surajtadhani" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-SurajTadhani-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://instagram.com/suraj_tadhani" target="_blank">
