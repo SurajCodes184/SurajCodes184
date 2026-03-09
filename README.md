@@ -1,19 +1,21 @@
-<table>
-  <tr>
-    <td width="60%">
-      <h1>Hi 👋, I'm Suraj Tadhani</h1>
-      <h3>🚀 A Passionate MERN Stack Developer from India 🚀</h3>
-      <p>
-        <img src="https://komarev.com/ghpvc/?username=SurajCodes184&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-        <img src="https://img.shields.io/github/followers/SurajCodes184?style=social" alt="GitHub Followers"/>
-        <img src="https://img.shields.io/badge/Code-React-blue?style=flat&logo=react" alt="Tech Stack"/>
-      </p>
-    </td>
-    <td width="40%" align="right">
-      <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="350px" alt="Coding GIF"/>
-    </td>
-  </tr>
-</table>
+<h1>Hi 👋, I'm Suraj Tadhani</h1>
+
+<img align="right" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="320"/>
+
+<h3>🚀 A Passionate MERN Stack Developer from India 🚀</h3>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=SurajCodes184&label=Profile%20views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/SurajCodes184?style=social"/>
+<img src="https://img.shields.io/badge/Code-React-blue?style=flat&logo=react"/>
+</p>
+
+### 🚀 Current Focus
+
+- 🔭 Building **Scalable MERN Stack Applications**
+- ⚡ Exploring **System Design & Backend Optimization**
+
+<br clear="right"/>
 
 ---
 
