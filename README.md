@@ -45,77 +45,29 @@
 
 ## 🛠 Languages & Frameworks
 
-<p align="center">
+<table align="center">
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/></td>
+<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50"/></td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/></td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/></td>
+</tr>
 
-<span style="margin:12px; display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50"/>
-</span>
-
-<span style="margin:12px; display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50"/>
-</span>
-
-<span style="margin:12px; display:inline-block;">
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="50"/>
-</span>
-
-<span style="margin:12px; display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50"/>
-</span>
-
-<span style="margin:12px; display:inline-block;">
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50"/>
-</span>
-
-<span style="margin:12px; display:inline-block;">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/>
-</span>
-
-<span style="margin:12px; display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50"/>
-</span>
-
-<span style="margin:12px; display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-</span>
-
-<span style="margin:12px; display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/>
-</span>
-
-<span style="margin:12px; display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/>
-</span>
-
-<span style="margin:12px; display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/>
-</span>
-
-<span style="margin:12px; display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/>
-</span>
-
-<span style="margin:12px; display:inline-block;">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/>
-</span>
-
-<span style="margin:12px; display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-</span>
-
-<span style="margin:12px; display:inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/>
-</span>
-
-<span style="margin:12px; display:inline-block;">
-<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50"/>
-</span>
-
-<span style="margin:12px; display:inline-block;">
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/>
-</span>
-
-</p>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="50"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="50"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="50"/></td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50"/></td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50"/></td>
+</tr>
+</table>
 
 ---
 
@@ -138,22 +90,33 @@
 ## 🌎 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/surajtadhani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-SurajTadhani-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="https://instagram.com/suraj_tadhani" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@suraj_tadhani-pink?style=for-the-badge&logo=instagram" />
-  </a>
+
+<a href="https://linkedin.com/in/surajtadhani">
+<img src="https://img.shields.io/badge/LinkedIn-Suraj%20Tadhani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/suraj_tadhani">
+<img src="https://img.shields.io/badge/Instagram-@suraj__tadhani-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://surajtadhani.com">
+<img src="https://img.shields.io/badge/Portfolio-surajtadhani.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+💬 Always open to discussing <b>Web Development, MERN Stack, and new tech ideas</b>
 </p>
 
 ---
 
 ### 💡 Fun Fact
 
-> 💻 "The best way to predict the future is to create it!"
+> 💻 *"The best way to predict the future is to create it."*
 
 ---
 
 <p align="center">
-✨ Thanks for stopping by! Have an amazing day! 🚀
+✨ <b>Thanks for stopping by!</b> Have an amazing day! 🚀
 </p>
